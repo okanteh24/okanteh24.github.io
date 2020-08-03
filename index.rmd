@@ -61,3 +61,4 @@ sd(xbar_holder2) #standard deviation of distribuion 2
 ```
 
 
+
